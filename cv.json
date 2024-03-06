@@ -1,0 +1,166 @@
+{
+  "basics": {
+    "name": "Will Enrique",
+    "label": "Frontend Developer & UI/UX Designer Apasionado por la Experiencia del Usuario",
+    "image": "/me.webp",
+    "email": "dele.23.40@gmail.com",
+    "phone": "+51 972 527 652",
+    "url": "",
+    "summary": "Profesional de la carrera de Diseño y Desarrollo de Software apasionado por el mundo del desarrollo frontend y el diseño de interfaces de usuario. Con conocimientos en la creación de experiencias de usuario atractivas y funcionales tanto para aplicaciones web como para aplicaciones móviles. Enfoque basado en la combinación de habilidades técnicas sólidas y una visión creativa para diseñar y desarrollar productos digitales de alta calidad. Nivel intermedio de inglés.",
+    "location": {
+      "address": "",
+      "postalCode": "08820",
+      "city": "Lima",
+      "countryCode": "ES",
+      "region": "Peru"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Enrique",
+        "url": "https://www.linkedin.com/in/willenrique/"
+      },
+      {
+        "network": "GitHub",
+        "username": "Enrique",
+        "url": "https://github.com/willpari"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Devdatep",
+      "position": "Lider del Area Diseño UI/UX",
+      "url": "https://www.devdatep.com/",
+      "startDate": "2023-10-19",
+      "endDate": "2024-02-28",
+      "summary": "Desarrollé habilidades de liderazgo al dirigir un proyecto Scrum, organizando eficazmente el equipo y estableciendo un proceso para identificar y abordar errores de manera proactiva. Esto resultó en un enfoque en la colaboración y la resolución de problemas, facilitando un ambiente de trabajo productivo y enfocado en resultados. Además, demostré capacidad de organización al liderar la integración de nuevos colaboradores en un proyecto de chatbot. Facilité su transición al equipo mediante capacitaciones efectivas y la creación de un esquema de trabajo estructurado, enfocándome en la comunicación clara y la colaboración, lo que promovió un ambiente de trabajo cohesionado y eficiente. También contribuí al crecimiento del equipo proporcionando cursos actualizados sobre diseño UX/UI, equipando a los nuevos integrantes con las habilidades necesarias para destacar en nuestro entorno de trabajo. Mi compromiso con la mejora continua y el aprendizaje compartido fortaleció la capacidad del equipo para enfrentar los desafíos del diseño de manera efectiva",
+      "highlights": [
+        "Started the company"
+      ]
+    }
+  ],
+  "volunteer": [{
+    "organization": "Organization",
+    "position": "Volunteer",
+    "url": "https://organization.com/",
+    "startDate": "2012-01-01",
+    "endDate": "2013-01-01",
+    "summary": "Description…",
+    "highlights": [
+      "Awarded 'Volunteer of the Month'"
+    ]
+  }],
+  "education": [{
+    "institution": "Tecsup - Instituto de Educación Superior",
+    "url": "https://www.uoc.edu/portal/es/index.html",
+    "area": "Diseño y desarrollo de software",
+    "studyType": "Bachelor",
+    "startDate": "2020-02-01",
+    "endDate": "2023-12-20",
+    "score": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  }],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference…"
+  }]
+}
